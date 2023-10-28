@@ -70,7 +70,7 @@ education:
         #     - Bullet point
       - degree: AS in Engineering
         university: Quinsigamond Community College
-        # time: 2007 - 2011
+        time: 2008 - 2014
         # details: |
         #   Describe your study here lorem ipsum dolor sit amet, consectetuer
         #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,87 +80,175 @@ education:
         #     - Bullet point
         #     - Bullet point
 
-# experiences:
-#     title: Experiences
-#     info:
-#       - role: Lead Developer
-#         time: 2015 - Present
-#         company: Startup Hubs, San Francisco
-#         details: |
-#           Describe your role here lorem ipsum dolor sit amet, consectetuer
-#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#           Cum sociis natoque penatibus et magnis dis parturient montes,
-#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#           pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#           enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#           error sit voluptatem accusantium doloremque laudantium, totam rem
-#           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#           architecto beatae vitae dicta sunt explicabo.
-#             - Bullet point
-#             - Bullet point
-#       - role: Senior Software Engineer
-#         time: 2014 - 2015
-#         company: Google, London
-#         details: |
-#           Describe your role here lorem ipsum dolor sit amet, consectetuer
-#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#           Cum sociis natoque penatibus et magnis dis parturient montes,
-#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#           pellentesque eu, pretium quis, sem.
-#             - Bullet point
-#             - Bullet point
-#       - role: UI Developer
-#         time: 2012 - 2014
-#         company: Amazon, London
-#         details: |
-#           Describe your role here lorem ipsum dolor sit amet, consectetuer
-#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#           Cum sociis natoque penatibus et magnis dis parturient montes,
-#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#           pellentesque eu, pretium quis, sem.
-#             - Bullet point
-#             - Bullet point
+experiences:
+    title: Experiences
+    info:
+      - role: Senior Programmer/Analyst
+        time: Apr 2022 - Present
+        company: Allegro MicroSystems, Marlborough, MA, USA
+        # details: |
+        #   Supporting employee functions with custom and platform based applications Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #   Cum sociis natoque penatibus et magnis dis parturient montes,
+        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #   pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        #   enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        #   error sit voluptatem accusantium doloremque laudantium, totam rem
+        #   aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        #   architecto beatae vitae dicta sunt explicabo.
+        #     - Bullet point
+        #     - Bullet point
+      - role: Programmer/Analyst  
+        time: Oct 2018 - Apr 2022
+        company: Allegro MicroSystems, Worcester/Marlborough, MA, USA
+        # details: |
+        #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #   Cum sociis natoque penatibus et magnis dis parturient montes,
+        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #   pellentesque eu, pretium quis, sem.
+        #     - Bullet point
+        #     - Bullet point
+      - role: Quality Assurance Engineer
+        time: Dec 2016 - Oct 2018
+        company: Allegro MicroSystems, Worcester, MA, USA
+        # details: |
+        #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #   Cum sociis natoque penatibus et magnis dis parturient montes,
+        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #   pellentesque eu, pretium quis, sem.
+        #     - Bullet point
+        #     - Bullet point
+      - role: Electrical Engineering Technician V
+        time: May 2015 - Dec 2016
+        company: Allegro MicroSystems, Worcester, MA, USA
+        # details: |
+        #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #   Cum sociis natoque penatibus et magnis dis parturient montes,
+        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #   pellentesque eu, pretium quis, sem.
+        #     - Bullet point
+        #     - Bullet point
+      - role: Electrical Engineering Technician IV
+        time: Mar 2014 - May 2015
+        company: Allegro MicroSystems, Worcester, MA, USA
+        # details: |
+        #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #   Cum sociis natoque penatibus et magnis dis parturient montes,
+        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #   pellentesque eu, pretium quis, sem.
+        #     - Bullet point
+        #     - Bullet point
+      - role: Electrical Engineering Technician III
+        time: Dec 2011 - Feb 2014
+        company: Allegro MicroSystems, Worcester, MA, USA
+        # details: |
+        #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #   Cum sociis natoque penatibus et magnis dis parturient montes,
+        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #   pellentesque eu, pretium quis, sem.
+        #     - Bullet point
+        #     - Bullet point
+      - role: Electrical Engineering Technician II
+        time: Mar 2008 - Feb 2011
+        company: Allegro MicroSystems, Worcester, MA, USA
+        # details: |
+        #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #   Cum sociis natoque penatibus et magnis dis parturient montes,
+        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #   pellentesque eu, pretium quis, sem.
+        #     - Bullet point
+        #     - Bullet point
+      - role: Electrical Engineering Technician I
+        time: Mar 2006 - Mar 2008
+        company: Allegro MicroSystems, Worcester, MA, USA
+        # details: |
+        #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #   Cum sociis natoque penatibus et magnis dis parturient montes,
+        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #   pellentesque eu, pretium quis, sem.
+        #     - Bullet point
+        #     - Bullet point
+      - role: Business Owner
+        time: Apr 2007 - Present
+        company: Simply IT, Worcester/Leominster, MA, USA
+        # details: |
+        #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #   Cum sociis natoque penatibus et magnis dis parturient montes,
+        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #   pellentesque eu, pretium quis, sem.
+        #     - Bullet point
+        #     - Bullet point
+      - role: Contract EtQ Developer 
+        time: Jul 2021 - Apr 2022
+        company: AFL Global, SC, USA
+        # details: |
+        #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #   Cum sociis natoque penatibus et magnis dis parturient montes,
+        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #   pellentesque eu, pretium quis, sem.
+        #     - Bullet point
+        #     - Bullet point
+      - role: Field Service Technician 
+        time: Sep 2009 - Mar 2010
+        company: Fastems, LLC, Worcester, MA, USA
+        # details: |
+        #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #   Cum sociis natoque penatibus et magnis dis parturient montes,
+        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #   pellentesque eu, pretium quis, sem.
+        #     - Bullet point
+        #     - Bullet point
 
-# certifications:
-#       title: Certifications
-#       list:
-#         - name: CV Builder
-#           start: 2020
-#           end: 2021
-#           organization: Microsoft
-#           credentialid: 111-222
-#           credentialurl: www.google.com
-#           credentialname: Google
-#           details: |
-#             Details about cert. Lorem ipsum dolor sit amet, consectetur
-#             adipiscing elit.
-#             Nullam eget orci purus. Nullam ultrices neque nibh.
-#             Aenean fermentum, felis vulputate suscipit accumsan,
-#             sem enim bibendum augue, sed convallis arcu lacus at dui.
-#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#             Praesent venenatis erat non augue suscipit consectetur.
+certifications:
+      title: Certifications
+      list:
+        - name: "C# & .NET: Programming"
+          start: Nov 2018
+          end: Nov 2018
+          organization: Microsoft
+          # credentialid: 111-222
+          credentialurl: https://www.linkedin.com/learning/certificates/d01291bcc9571a44ebe3cbda0bf91d9fba10da4868fb4cc0e7c93248554197ff?trk=backfilled_certificate
+          # credentialname: Google
+          # details: |
+          #   Details about cert. Lorem ipsum dolor sit amet, consectetur
+          #   adipiscing elit.
+          #   Nullam eget orci purus. Nullam ultrices neque nibh.
+          #   Aenean fermentum, felis vulputate suscipit accumsan,
+          #   sem enim bibendum augue, sed convallis arcu lacus at dui.
+          #   Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+          #   Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+          #   Praesent venenatis erat non augue suscipit consectetur.
 
-#             Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-#             fringilla vel. Ut euismod, sem sed vulputate venenatis,
-#             justo diam viverra velit, sed rhoncus leo leo eu justo.
-#             Suspendisse placerat risus ante, sed porta nisi blandit at.
-#         - name: Git learning
-#           start: 2019
-#           end:
-#           organization: Microsoft
-#           credentialid: 111-222
-#           credentialurl: www.github.com
-#           credentialname: Github
-#           details: |
-#             Older certification. Lorem ipsum dolor sit amet, consectetur
-#             adipiscing elit.
-#             Nullam eget orci purus. Nullam ultrices neque nibh.
-#             Aenean fermentum, felis vulputate suscipit accumsan,
-#             sem enim bibendum augue, sed convallis arcu lacus at dui.
-#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#             Praesent venenatis erat non augue suscipit consectetur.
+          #   Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+          #   fringilla vel. Ut euismod, sem sed vulputate venenatis,
+          #   justo diam viverra velit, sed rhoncus leo leo eu justo.
+          #   Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Learning C#
+          start: Nov 2018
+          end: Nov 2018
+          organization: Microsoft
+          # credentialid: 111-222
+          credentialurl: https://www.linkedin.com/learning/certificates/a219ff510eea5c2ac0ff0a02fa6be4e0818540572782cd4c94afe230a7c6b3d1?trk=backfilled_certificate
+          # credentialname: Github
+          # details: |
+          #   Older certification. Lorem ipsum dolor sit amet, consectetur
+          #   adipiscing elit.
+          #   Nullam eget orci purus. Nullam ultrices neque nibh.
+          #   Aenean fermentum, felis vulputate suscipit accumsan,
+          #   sem enim bibendum augue, sed convallis arcu lacus at dui.
+          #   Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+          #   Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+          #   Praesent venenatis erat non augue suscipit consectetur.
 
 # projects:
 #     title: Projects
@@ -230,27 +318,39 @@ education:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
-# skills:
-#     title: Skills &amp; Proficiency
+skills:
+    title: Skills &amp; Proficiency
 
-#     toolset:
+    toolset:
 #       - name: Python & Django
 #         level: 98%
 
-#       - name: Javascript & jQuery
-#         level: 98%
+       - name: C & C++
+         level: 80%
+
+       - name: C# & .NET
+         level: 80%
+
+       - name: Python
+         level: 98%
+
+       - name: Javascript & jQuery
+         level: 85%
+
+       - name: Java
+         level: 60%
 
 #       - name: Angular
 #         level: 98%
 
-#       - name: HTML5 & CSS
-#         level: 95%
+       - name: HTML5 & CSS
+         level: 95%
 
 #       - name: Ruby on Rails
 #         level: 85%
 
-#       - name: Sketch & Photoshop
-#         level: 60%
+       - name: Sketch & Photoshop
+         level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
