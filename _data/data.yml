@@ -48,12 +48,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced Computer/Software Engineer with a demonstrated history 
+      of working in the semiconductor, industrial automation, and manufacturing industries. 
+      Skilled in Python, C#, Java, JavaScript, C++, Visual Basic, PHP, Software/Hardware integration, Task Automation, and User Interface Design. 
+      Strong engineering professional working towards a Bachelor of Science - BS in Computer Engineering from the University of Massachusetts Lowell.
+      
 education:
     title: Education
     info:
@@ -344,6 +343,9 @@ skills:
 #         level: 98%
 
        - name: HTML5 & CSS
+         level: 95%
+
+       - name: MS-SQL & MySQL
          level: 95%
 
 #       - name: Ruby on Rails
